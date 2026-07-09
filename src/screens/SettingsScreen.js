@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import { ScrollView, View, Text, Switch, TouchableOpacity, StyleSheet, Platform, }
-    from 'react-native';
+import { ScrollView, View, Text, Switch, TouchableOpacity, StyleSheet, Platform, } from 'react-native';
 import { Appbar, Divider } from 'react-native-paper';
 import AsyncStorage from '@react-native-async-storage/async-storage';
 import DateTimePicker from '@react-native-community/datetimepicker';

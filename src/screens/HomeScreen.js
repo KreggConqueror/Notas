@@ -171,7 +171,6 @@ const HomeScreen = () => {
                 )}
             </View>
 
-            {/* Notas */}
             <View style={styles.centerContent}>
                 {notes.length === 0 ? (
                     <Text style={styles.message}>No tienes notas</Text>
